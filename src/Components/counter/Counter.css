@@ -1,0 +1,22 @@
+button{
+    font-size: 20px;
+    padding: 15px 15px;
+    background-color: green;
+    width: 100px;
+    color: white;
+}
+
+.counterResult {
+    font-size: 50px;
+    padding: 15px 35px;
+}
+
+.resetButton{
+    font-size: 30px;
+    width: 200px;
+    background-color: red;
+    padding: 25px 35px;
+}
+body{
+    padding: 50px 50px;
+}
